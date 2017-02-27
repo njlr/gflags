@@ -17,3 +17,6 @@ CMakeFiles/
 /test/gflags_unittest-main.cc
 /packages/
 CMakeLists.txt.user
+buck-out/
+.buckd/
+.buckconfig.local
